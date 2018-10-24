@@ -1,0 +1,14 @@
+.video-list{
+  display: flex;
+  flex-direction: column;
+  flex-basis: 25%;
+  flex-grow: 0;
+  flex-shrink: 0;
+  overflow-y: auto;
+  margin: 5px;
+}
+.video-list-item{
+  display: flex;
+  border-bottom: 1px solid #363636;
+  margin-bottom: 4px;
+}

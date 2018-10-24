@@ -1,0 +1,22 @@
+.selected-video-description {
+  margin: 5px;
+}
+
+.selected-video-title {
+  margin: 5px;
+}
+
+.i-frame {
+  flex-basis: 80%;
+  width: 50vw;
+}
+
+.video-embed {
+  flex-basis: 75%;
+  flex-grow: 0;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-right: 1px solid #363636;
+}
